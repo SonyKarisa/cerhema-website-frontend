@@ -30,16 +30,16 @@ A modern, responsive website for the CeRhema church branch built with React. Fea
 
 ## Development process
 
-See DEVLOG.md ↗ for a step-by-step journal of the project’s progress.
+See DEVLOG.md ↗ for a step-by-step journal of the project’s progress. 
 
 ## Screenshots
 
-See Screenshot.md
+See Screenshot.md COMING SOON...
 
 ## Links
 
-- Live Site ↗ (add link when deployed)
-- Backend Repository ↗
+- Live Site ↗ (add link when deployed) COMING SOON...
+- Backend Repository ↗ COMING SOON...
   
 ## License
 
