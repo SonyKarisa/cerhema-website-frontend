@@ -12,3 +12,13 @@
 - Newsletter Signup: Page for visitors to subscribe to the church’s newsletter.
 
 Each page is accessible from the main navigation and designed for a smooth, responsive user experience.
+
+# Tooling Decisions
+
+### Why I Chose Vite
+
+I selected Vite as the build tool and project scaffolding solution for this React project because it offers a modern, fast, and efficient development experience. Vite provides instant server start, lightning-fast hot module replacement, and minimal configuration out of the box. Compared to older tools like Create React App, Vite significantly reduces build times and improves developer productivity. Its popularity in the React community and support for the latest JavaScript features make it an excellent choice for new projects.
+
+### Why I Chose TypeScript
+
+I chose TypeScript for this project to take advantage of static typing and improved code reliability. TypeScript helps catch errors at compile time, making the codebase easier to maintain and refactor as the project grows. It also enhances code readability and provides better tooling support, such as autocompletion and type checking, which are valuable for both solo and collaborative development. Since many modern web development teams use TypeScript, including it in this project also demonstrates familiarity with industry best practices.
