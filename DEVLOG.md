@@ -24,3 +24,6 @@ I selected Vite as the build tool and project scaffolding solution for this Reac
 I chose TypeScript for this project to take advantage of static typing and improved code reliability. TypeScript helps catch errors at compile time, making the codebase easier to maintain and refactor as the project grows. It also enhances code readability and provides better tooling support, such as autocompletion and type checking, which are valuable for both solo and collaborative development. Since many modern web development teams use TypeScript, including it in this project also demonstrates familiarity with industry best practices.
 
 # Project begin date Monday July 18 2025
+### July 29th 2025
+Created folder PAGES and added Files, Home, About, Services, Events, Contact, Media, FAQ, Newsletter (all .tsx files inside the src/pages)
+Focusing soley on the Home page today
