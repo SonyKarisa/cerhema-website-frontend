@@ -25,5 +25,9 @@ I chose TypeScript for this project to take advantage of static typing and impro
 
 # Project begin date Monday July 18 2025
 ### July 29th 2025
-Created folder PAGES and added Files, Home, About, Services, Events, Contact, Media, FAQ, Newsletter (all .tsx files inside the src/pages)
+- Created folder PAGES and added Files, Home, About, Services, Events, Contact, Media, FAQ, Newsletter (all .tsx files inside the src/pages)
+- Created folder Styles and added NavBar module.css
+- Created folder Components and added Navbar .tsx
+- Created website logo in black and another in white; added them to assets folder
 Focusing soley on the Home page today
+Looked at https://thechurchco.com/portfolio/ for inspiration and pinterest
