@@ -29,5 +29,6 @@ I chose TypeScript for this project to take advantage of static typing and impro
 - Created folder Styles and added NavBar module.css
 - Created folder Components and added Navbar .tsx
 - Created website logo in black and another in white; added them to assets folder
+- Added styling for Navbar for different screen and phone sizes
 Focusing soley on the Home page today
 Looked at https://thechurchco.com/portfolio/ for inspiration and pinterest
