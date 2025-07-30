@@ -5,7 +5,9 @@ import styles from '../style/NavBar.module.css';
 function NavBar(){
     return(
         <nav className={styles.navbar} >
-            <img src={logoWhite} alt="CeRhema Church logo" className={styles.logo} />
+            <Link to="/">
+                <img src={logoWhite} alt="CeRhema Church logo" className={styles.logo} />
+            </Link>
             <ul className={styles.listStyle}>
                 <li>
                     <Link to="/">Home</Link>
