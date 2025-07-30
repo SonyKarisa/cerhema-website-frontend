@@ -1,7 +1,7 @@
 function Media(){
     return(
         <div>
-            <h2>Media Page</h2>
+            <h2>This is the Media Page</h2>
         </div>
     )
 }

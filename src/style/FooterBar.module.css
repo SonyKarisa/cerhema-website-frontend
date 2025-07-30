@@ -1,0 +1,19 @@
+.footerBar {
+    box-sizing: border-box;
+}
+
+.ListStyle {
+    list-style-type: none;
+}
+
+.ListStyle li a {
+    text-decoration: none;
+}
+
+.logo {
+    height: 48px;
+    width: auto;
+    object-fit: contain;
+    flex-shrink: 0;
+
+}

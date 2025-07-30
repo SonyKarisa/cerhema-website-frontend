@@ -8,7 +8,7 @@ function NavBar(){
             <Link to="/">
                 <img src={logoWhite} alt="CeRhema Church logo" className={styles.logo} />
             </Link>
-            <ul className={styles.listStyle}>
+            <ul className={styles.ListStyle}>
                 <li>
                     <Link to="/">Home</Link>
                 </li>
