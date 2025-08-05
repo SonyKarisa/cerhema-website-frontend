@@ -42,3 +42,8 @@ I chose TypeScript for this project to take advantage of static typing and impro
 - Decide on a color palette for the website using https://colorhunt.co/palette/181d31678983e6ddc4f0e9d2
 - #181D31 for navigation links
 - #678983 for hover of navigation links
+
+## August 5th
+I went on vacation since the 30th so consider this the next day haha.
+
+
