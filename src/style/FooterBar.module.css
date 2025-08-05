@@ -1,13 +1,25 @@
 .footerBar {
     box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+
+
 }
 
 .ListStyle {
+    display: flex;
+    gap: 2rem;
     list-style-type: none;
 }
 
 .ListStyle li a {
     text-decoration: none;
+    color: #181D31;
+    font-weight: 500;
+    transition: color 0.2s;
+
 }
 
 .logo {
@@ -16,4 +28,9 @@
     object-fit: contain;
     flex-shrink: 0;
 
+}
+
+.entireFooter {
+    width: 100%;
+    background: #fff;
 }

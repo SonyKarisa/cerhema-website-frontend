@@ -4,7 +4,7 @@ import instagramLogo from '../assets/Instagram_Glyph_Gradient.svg'
 import youtubeLogo from "../assets/yt_icon_red_digital.png";
 function Footer(){
     return(
-        <footer >
+        <footer className={styles.entireFooter} >
             <nav className={styles.footerBar} >
                 <ul className={styles.ListStyle} >
                     <li>
@@ -33,15 +33,17 @@ function Footer(){
                     </li>
                 </ul>
             </nav>
-            <nav >
-                <li>
-                    <Link to="https://www.instagram.com/ceyc_rhema?utm_source=ig_web_button_share_sheet&igsh=MW42cm9jajh2eG51bw=="><img src={instagramLogo} alt="Instagram logo" className={styles.logo} /></Link>
-                </li>
-                <li>
-                    <Link to="https://youtube.com/@ceycrhemaottawa?si=VZFXl9FqZYftSE8G"><img src={youtubeLogo} alt="YouTube logo" className={styles.logo} /></Link>
-                </li>
+            <nav className={styles.footerBar}>
+                <ul className={styles.ListStyle}>
+                    <li>
+                        <Link to="https://www.instagram.com/ceyc_rhema?utm_source=ig_web_button_share_sheet&igsh=MW42cm9jajh2eG51bw=="><img src={instagramLogo} alt="Instagram logo" className={styles.logo} /></Link>
+                    </li>
+                    <li>
+                        <Link to="https://youtube.com/@ceycrhemaottawa?si=VZFXl9FqZYftSE8G"><img src={youtubeLogo} alt="YouTube logo" className={styles.logo} /></Link>
+                    </li>
+                </ul>
             </nav>
-             © 2025 Christ Embassy Rhema Church
+             <p>© 2025 Christ Embassy Rhema Church</p>
         </footer>
        
       
