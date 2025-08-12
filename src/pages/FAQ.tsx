@@ -1,7 +1,7 @@
 function FAQ(){
     return(
         <div>
-            <h2>FAQ Page</h2>
+            <h2>This is the FAQ Page</h2>
         </div>
     )
 }

@@ -1,7 +1,7 @@
 function Events(){
     return(
         <div>
-            <h2>Events Page</h2>
+            <h2>This is the Events Page</h2>
         </div>
     )
 }

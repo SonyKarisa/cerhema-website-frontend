@@ -5,3 +5,9 @@ div {
 body {
   background-color: #181D31;
 }
+
+h2,
+h3,
+h4 {
+  color: white;
+}

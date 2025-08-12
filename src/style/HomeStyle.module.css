@@ -1,0 +1,21 @@
+.homeContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 5rem;
+    width: 100%;
+}
+
+.centerItems {
+    text-align: center;
+    width: 100%;
+}
+
+.headingColor {
+    color: white;
+}
+
+.homeImages {
+    width: 100%;
+    height: 30rem; 
+}

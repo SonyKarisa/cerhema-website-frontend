@@ -43,7 +43,7 @@ function Footer(){
                     </li>
                 </ul>
             </nav>
-             <p>© 2025 Christ Embassy Rhema Church</p>
+             <p className={styles.centerItems}>© 2025 Christ Embassy Rhema Church</p>
         </footer>
        
       

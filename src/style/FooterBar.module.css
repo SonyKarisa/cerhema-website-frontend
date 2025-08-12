@@ -34,3 +34,8 @@
     width: 100%;
     background: #fff;
 }
+
+.centerItems {
+    text-align: center;
+    width: 100%;
+}
