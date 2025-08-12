@@ -8,14 +8,100 @@
 
 .centerItems {
     text-align: center;
-    width: 100%;
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    color: #7c5e3c;
 }
 
-.headingColor {
-    color: white;
+.introSection {
+    background: linear-gradient(90deg, #f7e9d7 60%, #fff 100%);
+    border-radius: 16px;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 8px rgba(124, 94, 60, 0.08);
 }
 
-.homeImages {
+.introText {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+}
+
+.serviceTimes {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.serviceTimes ul {
+    list-style: none;
+    padding: 0;
+    margin: 0.5rem 0 0 0;
+}
+
+.serviceTimes li {
+    font-size: 1.1rem;
+    margin: 0.3rem 0;
+}
+
+.homeImage {
+    display: block;
+    margin: 1.5rem auto 0 auto;
+    max-width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 2px 12px rgba(124, 94, 60, 0.12);
+}
+
+.eventsSection {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 5rem;
     width: 100%;
-    height: 30rem; 
+    background: #fff7e6;
+    border-radius: 16px;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 8px rgba(124, 94, 60, 0.06);
+}
+
+.eventCard {
+    background: #fff;
+    border-radius: 12px;
+    padding: 1rem;
+    margin-top: 1rem;
+    box-shadow: 0 1px 4px rgba(124, 94, 60, 0.05);
+}
+
+.eventCard h4 {
+    margin: 0 0 0.5rem 0;
+    color: #7c5e3c;
+}
+
+.infoSection {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 5rem;
+    width: 100%;
+    background: #f7e9d7;
+    border-radius: 16px;
+    padding: 2rem 1rem;
+    box-shadow: 0 2px 8px rgba(124, 94, 60, 0.08);
+}
+
+.locationDetails,
+.contactDetails {
+    margin-top: 1rem;
+    font-size: 1.05rem;
+}
+
+.contactDetails a {
+    color: #7c5e3c;
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+.contactDetails a:hover {
+    text-decoration: underline;
 }
